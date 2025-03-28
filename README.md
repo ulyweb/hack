@@ -37,14 +37,14 @@ shell:Windows
 
 1. Control Panel:
    - Run command: `control`
-   - PowerShell command: `control panel`[1][2]
+   - PowerShell command: `control panel`
 
 2. Devices and Printers:
-   - Run command: `shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}`[4][8]
+   - Run command: `shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}`
    - PowerShell command: `explorer.exe shell:::{A8A91A66-3A7D-4424-8D24-04E180695C7A}`
 
 3. System Properties:
-   - Run command: `sysdm.cpl` or `systempropertiesadvanced`[5]
+   - Run command: `sysdm.cpl` or `systempropertiesadvanced`
    - PowerShell command: Same as Run commands
 
 To use these commands:
